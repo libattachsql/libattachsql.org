@@ -2,6 +2,8 @@ libAttachSQL
 ============
 
 :save_as: index.html
+:Slug: index
+:title: libAttachSQL
 
 libAttachSQL is a lightweight, non-blocking C API for MySQL servers originally created by HP's Advanced Technology Group.  It is desgined to be easy to use and easy to contribute to.
 

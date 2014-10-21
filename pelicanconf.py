@@ -44,3 +44,5 @@ PAGE_LANG_SAVE_AS = '{slug}-{lang}.html'
 # Cleaner Articles
 ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
+
+DISPLAY_CATEGORIES_ON_MENU=True
