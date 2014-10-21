@@ -17,4 +17,3 @@ Questions?
 ----------
 Feel free to `file an issue <https://github.com/libattachsql/libattachsql/issues/new>`_, talk to us on `#libAttachSQL on Freenode <irc://chat.freenode.net/libAttachSQL>`_ or email `andrew@libattachsql.org <mailto:andrew@libattachsql.org>`_.
 
-

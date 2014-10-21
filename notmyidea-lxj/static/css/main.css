@@ -156,7 +156,6 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 	/* Banner */
 	#banner h1 {
         font-size: 3.571em; 
-        line-height: 0;
 	    margin: auto;
       text-align: center;
     }
@@ -167,7 +166,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
     text-decoration: none;
 	}
 	
-	#banner h1 strong {font-size: 0.36em; font-weight: normal; top: -80px; left: 60px; position: relative;}
+	#banner h1 strong {font-size: 0.36em; font-weight: normal;}
 	
 	/* Main Nav */
 	#banner nav {

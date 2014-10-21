@@ -1,0 +1,5 @@
+:title: Page not found
+:Slug: 404
+:status: hidden
+
+Unfortunately the page you are looking for isn't on this server, please try back at the `home page <http://libattachsql.org/>`_.

@@ -5,7 +5,7 @@ Version 1.0.0 GA Released!
 :category: News
 :tags: release, GA
 
-Today marks the first GA release of libAttachSQL.  Not a huge amount has changed over the RC release, almost exclusively bug fix changes from the 0.9.0RC release.
+Today marks the first GA release of libAttachSQL.  Not a huge amount has changed over the RC release, almost exclusively bug fix changes to improve stability and error handling.
 
 You can use the following links to download libAttachSQL 1.0.0:
 
